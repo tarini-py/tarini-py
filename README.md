@@ -1,4 +1,4 @@
-🔭 I’m currently learning  <br>Data science & Machine learning projects<br>🤝 I’m looking for help with  <br>Advanced ML, feature engineering, and MLOps basics.<br>💬 Ask me about  <br>Regression, cross-validation, VIF, and SQL.<br>
+🔭 I’m currently learning  <br>Data science & Machine learning projects<br>
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-tps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarini.psamantray@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/tariniprasad0x) [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://public.tableau.com/app/profile/tarini.prasad.samantray/vizzes)
 ### 💻 Tech Stack:

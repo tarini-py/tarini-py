@@ -1,4 +1,4 @@
-🔭 I’m currently learning  <br>Data science & Machine learning projects<br>
+🔭 I’m currently learning Data science & Machine learning<br>
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-tps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarini.psamantray@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/tariniprasad0x) [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://public.tableau.com/app/profile/tarini.prasad.samantray/vizzes)
 ### 💻 Tech Stack:

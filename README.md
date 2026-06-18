@@ -1,4 +1,4 @@
-🔭Hi, I am `Tarini Prasad Samantray`, I’m currently learning Data science & Machine learning.<br>
+🔭Hi, I am `Tarini Prasad Samantray`, I’m currently learning `Data science & Machine learning`.<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-tps) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarini.psamantray@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/u/mr_tps/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/tariniprasad0x) [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](https://public.tableau.com/app/profile/tarini.prasad.samantray/vizzes) 
 <!--
